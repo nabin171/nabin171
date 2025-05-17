@@ -66,9 +66,10 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=nabin171\&theme=radical\&hide_border=false\&show_icons=true\&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com?user=nabin171\&theme=radical\&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nabin171\&theme=radical\&hide_border=false\&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=nabin171&theme=tokyonight&hide_border=false&show_icons=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com?user=nabin171&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nabin171&theme=tokyonight&hide_border=false&layout=compact)
+
 
 ---
 
@@ -87,7 +88,9 @@
 
 ### 👁️ Visitor Count
 
-[![](https://visitcount.itsvg.in/api?id=nabin171\&label=Profile%20Views\&icon=5\&color=12)](https://visitcount.itsvg.in)
+
+
+[![](https://visitcount.itsvg.in/api?id=nabin171&label=Profile%20Views&icon=5&color=0F52BA)](https://visitcount.itsvg.in)
 
 ---
 
