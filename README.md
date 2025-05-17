@@ -88,9 +88,8 @@
 
 ### 👁️ Visitor Count
 
+![Profile views](https://komarev.com/ghpvc/?username=nabin171&label=PROFILE+VIEWS&color=0F52BA)
 
-
-[![](https://visitcount.itsvg.in/api?id=nabin171&label=Profile%20Views&icon=5&color=0F52BA)](https://visitcount.itsvg.in)
 
 ---
 
