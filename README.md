@@ -93,6 +93,7 @@
 
 ---
 
+<img src="https://raw.githubusercontent.com/nabin171/nabin171/output/snake.svg" alt="Snake animation" />
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nabin171&limit=5&theme=dark&combine_all_yearly_contributions=true)
